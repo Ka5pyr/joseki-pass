@@ -1,6 +1,6 @@
-#!/usr/bin/env python3.11
+#!/usr/bin/env python3
 
-#import sys
+import args
 
 
 # Import file of possible terms to create password
@@ -59,9 +59,15 @@ def generate_case_permutations(input_string):
 
 
 if __name__ == "__main__":
-    # TERM FILE
-    #with open(sys.argv[1], "r") as term_file:
-    with open("hp_character_names.txt", "r") as term_file:
+
+    # Information from args file
+    args = args.parse_args()
+    input_file = args.input_file
+    output_file = args.output_file
+
+
+    # Calling Permutation Function
+    with open(input_file, "r") as term_file:
         for term in term_file:
             term = term.replace("\n", "")
             tmp_permutation_list = generate_case_permutations(term)
