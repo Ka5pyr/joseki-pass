@@ -10,15 +10,16 @@ This program will then create a list of possible passwords from it.
 
 
 ## How to Execute
-- git clone https://gitlab.com/eric-keith/joseki-pass.git
-- cd joseki-pass
-- chmod u+x joseki-pass
+```bash
+git clone https://gitlab.com/eric-keith/joseki-pass.git
+cd joseki-pass
+chmod u+x joseki-pass
 
 
 python3 joseki-pass
 or
 ./joseki-pass
-
+```
 
 ## To Do
 - [ ] Add a time tracker function to display how long the command took to complete
