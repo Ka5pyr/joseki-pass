@@ -1,0 +1,712 @@
+Accio
+Aguamenti
+Alohomora
+Anapneo
+Aparecium
+Avada Kedavra
+Avis
+Confundo
+Crucio
+Densaugeo
+Depulso
+Diffindo
+Disillusionment Charm
+Duro
+Engorgio
+Episkey
+Expecto Patronum
+Expelliarmus
+Expulso
+Fidelius Charm
+Fiendfyre Curse
+Flagrate
+Flame-Freezing Charm
+Flipendo
+Furnunculus
+Geminio
+Glisseo
+Homorphus
+Impedimenta
+Imperio
+Impervius
+Incarcerous
+Incendio
+Langlock
+Legilimens
+Levicorpus
+Liberacorpus
+Locomotor
+Lumos
+Meteolojinx Recanto
+Morsmordre
+Muffliato
+Nox
+Obliviate
+Obscuro
+Oppugno
+Orchideous
+Pack
+Petrificus Totalus
+Point Me
+Portus
+Prior Incantato
+Protego
+Protego Horribilis
+Protego Maxima
+Protego Totalum
+Quietus
+Reducio
+Reducto
+Relashio
+Rennervate
+Reparo
+Repello Muggletum
+Repello Inimicum
+Rictusempra
+Riddikulus
+Salvio Hexia
+Scourgify
+Sectumsempra
+Serpensortia
+Silencio
+Slugulus Eructo
+Sonorus
+Stupefy
+Surgito
+Tarantallegra
+Tergeo
+Unbreakable Vow
+Vulnera Sanentur
+Wingardium Leviosa
+Alastor "Mad-Eye" Moody
+Alastor
+"Mad-Eye"
+Moody
+Albus Dumbledore
+Albus
+Dumbledore
+Alecto Carrow
+Alecto
+Carrow
+Alice Longbottom
+Alice
+Longbottom
+Alicia Spinnet
+Alicia
+Spinnet
+Amelia Bones
+Amelia
+Bones
+Amos Diggory
+Amos
+Diggory
+Amycus Carrow
+Amycus
+Andromeda Tonks
+Andromeda
+Tonks
+Angelina Johnson
+Angelina
+Johnson
+Anthony Goldstein
+Anthony
+Goldstein
+Antonin Dolohov
+Antonin
+Dolohov
+Argus Filch
+Argus
+Filch
+Arthur Weasley
+Arthur
+Weasley
+Augusta Longbottom
+Augusta
+Augustus Rookwood
+Augustus
+Rookwood
+Bane
+Barney Weasley
+Barney
+Bartemius Crouch Jr.
+Bartemius
+Crouch
+Jr.
+Bathilda Bagshot
+Bathilda
+Bagshot
+Bartemius Crouch Jr.
+Bathilda Bagshot
+Bartemius Crouch Jr.
+Bathilda Bagshot
+Bellatrix Lestrange
+Bellatrix
+Lestrange
+Benjy Fenwick
+Benjy
+Fenwick
+Bill Weasley
+Bill
+Blaise Zabini
+Blaise
+Zabini
+Bloody Baron
+Bloody
+Baron
+Bogrod
+Cedric Diggory
+Cedric
+Charlie Weasley
+Charlie
+Cho Chang
+Cho
+Chang
+Colin Creevey
+Colin
+Creevey
+Cornelius Fudge
+Cornelius
+Fudge
+Cormac McLaggen
+Cormac
+McLaggen
+Dedalus Diggle
+Dedalus
+Diggle
+Dean Thomas
+Dean
+Thomas
+Dennis Creevey
+Dennis
+Dobby
+Dolores Umbridge
+Dolores
+Umbridge
+Draco Malfoy
+Draco
+Malfoy
+Dudley Dursley
+Dudley
+Dursley
+Eileen Prince
+Eileen
+Prince
+Elphias Doge
+Elphias
+Doge
+Emmeline Vance
+Emmeline
+Vance
+Ernie Macmillan
+Ernie
+Macmillan
+Fawkes
+Fenrir Greyback
+Fenrir
+Greyback
+Filius Flitwick
+Filius
+Flitwick
+Firenze
+Fleur Delacour
+Fleur
+Delacour
+Frank Bryce
+Frank
+Bryce
+Fred Weasley
+Fred
+Gabrielle Delacour
+Gabrielle
+Gellert Grindelwald
+Gellert
+Grindelwald
+George Weasley
+George
+Gilderoy Lockhart
+Gilderoy
+Lockhart
+Ginny Weasley
+Ginny
+Godric Gryffindor
+Godric
+Gryffindor
+Goyle Sr.
+Goyle
+Sr.
+Gregory Goyle
+Gregory
+Grey Lady
+Grey
+Lady
+Grindylow
+Hannah Abbott
+Hannah
+Abbott
+Harry Potter
+Harry
+Potter
+Helena Ravenclaw
+Helena
+Ravenclaw
+Helga Hufflepuff
+Helga
+Hufflepuff
+Hepzibah Smith
+Hepzibah
+Smith
+Hermione Granger
+Hermione
+Granger
+Hestia Jones
+Hestia
+Jones
+Horace Slughorn
+Horace
+Slughorn
+Igor Karkaroff
+Igor
+Karkaroff
+James Potter
+James
+Justin Finch-Fletchley
+Justin
+Finch-Fletchley
+Katie Bell
+Katie
+Bell
+Kingsley Shacklebolt
+Kingsley
+Shacklebolt
+Kreacher
+Lavender Brown
+Lavender
+Brown
+Lee Jordan
+Lee
+Jordan
+Lily Potter
+Lily
+Lorcan d'Eath
+Lorcan
+d'Eath
+Luna Lovegood
+Luna
+Lovegood
+Madam Hooch
+Madam
+Hooch
+Madam Malkin
+Malkin
+Madam Pomfrey
+Pomfrey
+Mad-Eye Moody
+Mad-Eye
+Mafalda Hopkirk
+Mafalda
+Hopkirk
+Magorian
+Marge Dursley
+Marge
+Marietta Edgecombe
+Marietta
+Edgecombe
+Marvolo Gaunt
+Marvolo
+Gaunt
+Merope Gaunt
+Merope
+Michael Corner
+Michael
+Corner
+Millicent Bulstrode
+Millicent
+Bulstrode
+Minerva McGonagall
+Minerva
+McGonagall
+Molly Weasley
+Molly
+Morfin Gaunt
+Morfin
+Mundungus Fletcher
+Mundungus
+Fletcher
+Narcissa Malfoy
+Narcissa
+Nearly Headless Nick
+Nearly
+Headless
+Nick
+Neville Longbottom
+Neville
+Newt Scamander
+Newt
+Scamander
+Nicolas Flamel
+Nicolas
+Flamel
+Nymphadora Tonks
+Nymphadora
+Olympe Maxime
+Olympe
+Maxime
+Pansy Parkinson
+Pansy
+Parkinson
+Parvati Patil
+Parvati
+Patil
+Penelope Clearwater
+Penelope
+Clearwater
+Percy Weasley
+Percy
+Peter Pettigrew
+Peter
+Pettigrew
+Petunia Dursley
+Petunia
+Phineas Nigellus Black
+Phineas
+Nigellus
+Black
+Pius Thicknesse
+Pius
+Thicknesse
+Poppy Pomfrey
+Poppy
+Quirinus Quirrell
+Quirinus
+Quirrell
+Rabastan Lestrange
+Rabastan
+Regulus Black
+Regulus
+Remus Lupin
+Remus
+Lupin
+Rita Skeeter
+Rita
+Skeeter
+Rolanda Hooch
+Rolanda
+Ron Weasley
+Ron
+Rowena Ravenclaw
+Rowena
+Rubeus Hagrid
+Rubeus
+Hagrid
+Salazar Slytherin
+Salazar
+Slytherin
+Seamus Finnigan
+Seamus
+Finnigan
+Severus Snape
+Severus
+Snape
+Sir Cadogan
+Sir
+Cadogan
+Sirius Black
+Sirius
+Stan Shunpike
+Stan
+Shunpike
+Sturgis Podmore
+Sturgis
+Podmore
+Susan Bones
+Susan
+Sybill Trelawney
+Sybill
+Trelawney
+Ted Tonks
+Ted
+Teddy Lupin
+Teddy
+Terence Higgs
+Terence
+Higgs
+The Fat Friar
+The
+Fat
+Friar
+The Grey Lady
+Grey
+Lady
+The Bloody Baron
+Bloody
+Baron
+Theodore Nott
+Theodore
+Nott
+Thomas Marvolo Riddle
+Thomas
+Marvolo
+Riddle
+12 Grimmauld Place
+4 Privet Drive
+Aberdeen
+Alnwick
+Alps
+Amsterdam
+Azkaban
+Bagnold's garden
+Bath
+Beauxbatons Academy of Magic
+Black Forest
+Bletchley Park
+Borgin and Burkes
+Bracken House
+Brasília
+Bristol
+British Ministry of Magic
+Brockdale Bridge
+Budapest
+Burrow
+Cadogan's chambers
+Cairo
+Cape Wrath
+Casa degli Spiriti
+Castle Alnwick
+Cemetery
+Chamber of Secrets
+Charing Cross Road
+Cheapside
+Chelsea
+Chipping Clodbury
+Chudley Cannons' Stadium
+Cokeworth
+Cornwall
+Cribbins Square
+Culpepper's Orchard
+Dalston
+Dervish and Banges
+Diagon Alley
+Dijon
+Domme
+Drakonholm
+Dublin
+Durmstrang Institute
+Eeylops Owl Emporium
+Egypt
+Elder Wand's tomb
+Elephant House
+Elixir of Life chamber
+Elm Street
+Epping Forest
+Ernie Prang's flying lessons
+Essex
+Everton
+Fangorn Forest
+Flourish and Blotts
+Forest of Dean
+Forbidden Forest
+Gadding with Ghouls book signing
+Gelato parlour
+Godric's Hollow
+Goldstein Residence
+Gorodok Shipyard
+Gothic-style castle
+Great Hall
+Greenwich
+Gringotts Wizarding Bank
+Grimmauld Place
+Gryffindor Tower
+Hallowe'en feast
+Hammersmith
+Hangleton
+Havre
+Hedwig's cage
+Hog's Head Inn
+Hogwarts Castle
+Hogsmeade Station
+Hogsmeade Village
+Hogwarts Express
+Hogwarts Library
+Hogwarts School of Witchcraft and Wizardry
+Hogsmeade Station
+Horcrux cave
+Horcrux cave entrance
+House of Black
+Hufflepuff Basement
+Hut-on-the-Rock
+Icy Floe Island
+Ilfracombe
+Imperium bar
+Inferi cave
+Irish Quidditch Stadium
+Isle of Drear
+James Potter's house
+Japan
+Jedburgh
+Karkaroff's Aerie
+Kings Cross Station
+Kitchens
+Knight Bus
+Knockturn Alley
+Kreacher's Den
+Lestrange Vault
+Little Hangleton
+Little Whinging
+Londinum
+Lovegood House
+Madam Puddifoot's Tea Shop
+Magical Menagerie
+Magnolia Crescent
+Malfoy Manor
+Marauder's Map
+Memorial Garden
+Merpeople Village
+Ministry of Magic
+Mirror of Erised
+Mistley
+Moaning Myrtle's Bathroom
+Molly's Place
+Montrose Magpies Stadium
+Morsmordre Cave
+Muggle Studies Classroom
+Muggle-Worthy Excuse Committee Headquarters
+Museum of Quidditch
+Narcissa's House
+Nurmengard
+Number 12 Grimmauld Place
+Oblivion Bar
+Ollivanders Wand Shop
+Onslaught Theatre
+Order of the Phoenix Headquarters
+Ottery St. Catchpole
+Owlery
+Parseltongue Door
+Peverell family's graves
+Potion Master's Office
+Prefects' Bathroom
+Privet Drive
+Quidditch Pitch
+Ravenclaw Tower
+Refectory
+Resurrection Stone's Cave
+Room of Requirement
+Rubeus Hagrid's Hut
+Rumplepuffin's Skiving SnackboxesG
+Salamander Street
+Salem Witches' Institute
+Scribbulus Writing Implements
+Second Floor Corridor
+Second Hand Robes
+Second Wizarding War
+Secret Keeper's Cottage
+Shacklebolt's Office
+Shaftesbury Avenue
+Shrieking Shack
+Siberian wizarding district
+Slytherin Dungeon
+Slug & Jiggers Apothecary
+Slug Club Christmas Party
+Soho
+Sorting Hat's Office
+South Tower
+Special Awards Ceremony
+Spinner's End
+Splinching
+St Mungo's Hospital for Magical Maladies and Injuries
+St Oswald's Home for Old Witches and Wizards
+Standard Book of Spells, Grade 1
+Standard Book of Spells, Grade 2
+Standard Book of Spells, Grade 3
+Standard Book of Spells, Grade 4
+Standard Book of Spells, Grade 5
+Standard Book of Spells, Grade 6
+Standard Book of Spells, Grade 7
+Starbucks
+Stokes Moran
+Stone Circle
+Stonehenge
+Storage Room
+Street Vendors
+Streets of London
+Subway
+Suggs
+Surrey
+Surrey Constabulary
+Surrey Privet Drive
+Sweets trolley
+Sword of Gryffindor
+Syrup of Hellebore
+Tales of Beedle the Bard
+Tavern
+Team Seven's Tent
+Teleportation
+Test Chamber Three
+The Atrium
+The Astronomy Tower
+The Batcave
+The Black Lake
+The Burrow
+The Chamber of Secrets
+The Dark Forest
+The Forbidden Forest
+The Forest of Dean
+The Gryffindor Common Room
+The Headless Hunt
+The Hog's Head
+The Hufflepuff Common Room
+The Knight Bus
+The Leaky Cauldron
+The Library
+The Room of Requirement
+The Slytherin Common Room
+Thestral Enclosure
+Three Broomsticks Inn
+Tom Riddle's Diary
+Top Box
+Tower Hamlets
+Transfiguration Courtyard
+Transfiguration department
+Transfiguration Today
+Transylvania
+Trembling Room
+Trophy Room
+Turkish National Quidditch team
+Twelve Grimmauld Place
+Ukrainian Ironbelly Reserve
+Unicorn Blood
+Unplottable Room
+Upper Flagley
+Upper Slaughter
+Vault 713
+Vault 998
+Vaults
+Vernon's Car
+Verona
+Vipera Evanesca
+Voldemort's Island
+Voldemort's Locket Cave
+Wales
+Warren
+Weasley Clock
+Weasleys' Wizard Wheezes
+Whomping Willow
+Wilda Griffiths's House
+Wiltshire
+Winchester
+Windows
+Wizengamot
+Wizengamot Administration Services
+Wizengamot Courtrooms
+Wizengamot Headquarters
+Wizards' Ordinary Magic and Basic Aptitude Test
+Wizarding Examinations Authority
+Wizarding Wireless Network Headquarters
+Wool's Orphanage
+World Cup Campsite
+World Cup Stadium
+Wormtail's Lair
+Wytheridge Estate
+Yate
+Yaxley's house
+Zabini household
+Zonko's Joke Shop
