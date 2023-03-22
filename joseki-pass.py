@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
 import args
-
+from rich import print as rprint
+from rich.progress import track
+import time
 
 # Import file of possible terms to create password
 OUTPUT_FILE = "new_passfile.txt"
@@ -53,22 +55,28 @@ def generate_case_permutations(input_string):
                 permutations.append(f"{permutation}!")
                 for k in range(10):
                     permutations.append(f"{permutation}{k}!")
-                    print(f"{permutation}{k}!")
+                    #print(f"{permutation}{k}!")
         # Remove duplicates and return the list of permutations
     return (list(set(permutations)))
 
 
 if __name__ == "__main__":
 
+
     # Information from args file
     args = args.parse_args()
     input_file = args.input_file
     output_file = args.output_file
 
-
+    start = time.time()
+    term_file = ""
     # Calling Permutation Function
-    with open(input_file, "r") as term_file:
-        for term in term_file:
-            term = term.replace("\n", "")
-            tmp_permutation_list = generate_case_permutations(term)
-            append_file(tmp_permutation_list)
+    with open(input_file, "r") as tf:
+        term_file = tf.read().splitlines()
+
+    for term in track(term_file, description='[green]Creating Password List'):
+        term = term.replace("\n", "")
+        tmp_permutation_list = generate_case_permutations(term)
+        append_file(tmp_permutation_list)
+    end = time.time()
+    rprint(f"Elapsed Time: {end - start}")
