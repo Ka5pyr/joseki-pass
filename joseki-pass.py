@@ -37,7 +37,6 @@ def generate_case_permutations(term):
     term_variants = []
 
     term_variants.append(term)
-    print(term)
 
     # Replace letters to numbers if user specifies
     if arguments.char_and_num_replace:
@@ -81,7 +80,7 @@ if __name__ == "__main__":
         with open(arguments.input_text, "r") as tf:
             term_list = tf.read().splitlines()
     else:
-        term_list = arguments.input_text.split(" ")
+        term_list = arguments.input_text.split(",")
 
 
     # Loop for calling permutation functions
