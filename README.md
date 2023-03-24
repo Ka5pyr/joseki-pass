@@ -30,12 +30,13 @@ python3 joseki-pass -h
 ```bash
 ./joseki-pass -c
 ```
-![Custome Input example](./src/images/custom_input.png "Custom Input Example")
+![Custome Input Example](./src/images/custom_input.png "Custom Input Example")
 
 **Executing the script with an input file**
 ```bash
 ./joseki-pass -i <termfile.txt> -o <outfile.txt>
 ```
+![Input File Example](./src/images/input_file_example.png "Input File Example")
 
 ---
 ## To Do
@@ -44,4 +45,3 @@ python3 joseki-pass -h
     - [x] Choose Output filename
     - [x] Help Page
 - [x] Add possible rich tracker
-- [ ] Add Threading Option to make process faster

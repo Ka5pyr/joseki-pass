@@ -57,10 +57,12 @@ def generate_case_permutations(term):
             for j in range(2**len(term_variant)):
                 # Convert the binary representation of the current permutation to a string of uppercase and lowercase letters
                 permutation = "".join([term_variant[k].upper() if (j >> k) & 1 else term_variant[k].lower() for k in range(len(term_variant))])
-                permutations.append(permutation)
-                permutations.append(f"{permutation}!")
+                tmp_permutation_list = []
+                tmp_permutation_list.append(permutation)
+                tmp_permutation_list.append(f"{permutation}!")
                 for k in range(10):
-                    permutations.append(f"{permutation}{k}!")
+                    tmp_permutation_list.append(f"{permutation}{k}!")
+                permutations.extend(tmp_permutation_list)
         # Remove duplicates and return the list of permutations
     return (list(set(permutations)))
 
@@ -86,8 +88,8 @@ if __name__ == "__main__":
     # Loop for calling permutation functions
     for term in track(term_list, description='[green]Creating Password List'):
         term = term.replace("\n", "")
-        tmp_permutation_list = generate_case_permutations(term)
-        append_file(arguments.output_file, tmp_permutation_list)
+        permutation_list = generate_case_permutations(term)
+        append_file(arguments.output_file, permutation_list)
 
     # Grabbing current time to display Elapsed Time
     end = time.time()
