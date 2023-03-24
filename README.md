@@ -9,7 +9,7 @@ This program will then create a password file from it.
 ## How to Execute
 **Setting up the script**
 ```bash
-git clone https://gitlab.com/eric-keith/joseki-pass.git
+git clone https://gitlab.com/ka5pyr/joseki-pass.git
 cd joseki-pass
 chmod u+x joseki-pass
 ```
