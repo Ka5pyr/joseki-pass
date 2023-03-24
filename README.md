@@ -30,7 +30,7 @@ python3 joseki-pass -h
 ```bash
 ./joseki-pass -c
 ```
-![Custome Input example](./src/images/help_page.png "Custom Input Example")
+![Custome Input example](./src/images/custom_input.png "Custom Input Example")
 
 **Executing the script with an input file**
 ```bash
